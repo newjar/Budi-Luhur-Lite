@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07767d7ff64d9e1bba797ad966980514a021f577">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_652209ad055404412bf4332e6efb8395ec93b322/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_07c5ec5c34e76da9ee7760bb2514a3d06e47896a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_07c5ec5c34e76da9ee7760bb2514a3d06e47896a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/cd0e52b150902c3302602e662fa921d4992dd8c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10be178f5f3bf37feb3b5526cf321356f38906ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/4dd114078a3caad85cd951293b98cf36191d04f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70273d12d8e3a729f152ab98e01798b0afb83cc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e84ee41397424279607320f8fb0e96135bf28a88/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/cd0e52b150902c3302602e662fa921d4992dd8c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_10be178f5f3bf37feb3b5526cf321356f38906ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/aeeda0c077cf296f1f479d8a86e0b8e7fd6acbf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78322c796c470724602c2102cba7585b1e88d7d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/aeeda0c077cf296f1f479d8a86e0b8e7fd6acbf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_78322c796c470724602c2102cba7585b1e88d7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/4dd114078a3caad85cd951293b98cf36191d04f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_70273d12d8e3a729f152ab98e01798b0afb83cc6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/8007cc6eeb1bbb97aa073060d007ba0f5d4caa2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_210e7670cf4e71af9a2dac2e9eb985bd41fb351c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/d9d62949a8033d01fc528ddae6daee9684bfbfc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_95524510000d1c3e7bae3ba742a159adebb067dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/da3e475c1ac052cc0c740c40e91f3e6fb393d9fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec791a7da2630b2c45506a73123e06bb8879b1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/7d89b736f6055dfaa75626850969ab5c1bc63887/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_14e664589b0a921698998360b8536525bc27c3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7453bee6b740af70d72672de7e6ac94889cccef9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/d9d62949a8033d01fc528ddae6daee9684bfbfc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95524510000d1c3e7bae3ba742a159adebb067dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/a83ec68d30ef70b24c23374ee48139d411c6f2d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_a106535f8a09c2ab3cf6a6234449cfe326ee7204.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7453bee6b740af70d72672de7e6ac94889cccef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/a83ec68d30ef70b24c23374ee48139d411c6f2d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a106535f8a09c2ab3cf6a6234449cfe326ee7204/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/8007cc6eeb1bbb97aa073060d007ba0f5d4caa2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_210e7670cf4e71af9a2dac2e9eb985bd41fb351c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/36d783d8ccc180590c4da297b81363080b8aaf6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_870780dfd589be0d26f5e7f3d2856dbf9a6c1202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/8d68bd5a2c9bad2ce44fb5a2be1e5a42fa8106be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_1c124efc2a498e548bcbe58579e849e8ceea7afa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/91a7e7349a7ab3be7c209c31e82c23aba7487de8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a81d279c0638d7e6200b9df4517de7b1bef02131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/36d783d8ccc180590c4da297b81363080b8aaf6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_870780dfd589be0d26f5e7f3d2856dbf9a6c1202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/7d89b736f6055dfaa75626850969ab5c1bc63887/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14e664589b0a921698998360b8536525bc27c3ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/da3e475c1ac052cc0c740c40e91f3e6fb393d9fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_ec791a7da2630b2c45506a73123e06bb8879b1f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/ba9cb15a696d91c4369bc47466e15f0ca638e9c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e591baa55f9a57b107eb1bc21430a928ebe3f722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/34c2922dc0e3a2a5d94533377e8e25bd4c392de8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54e27fcb1286c849bb8c0dd55536a4262c85b44a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/ba9cb15a696d91c4369bc47466e15f0ca638e9c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_e591baa55f9a57b107eb1bc21430a928ebe3f722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/88d0b764a0113f9eafaad9f71454b55fdb214cd2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_a805ab1003f60d6ff94a9b5f1f45c3e5456efebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/34c2922dc0e3a2a5d94533377e8e25bd4c392de8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_54e27fcb1286c849bb8c0dd55536a4262c85b44a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/8d68bd5a2c9bad2ce44fb5a2be1e5a42fa8106be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c124efc2a498e548bcbe58579e849e8ceea7afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nfajar/.android/build-cache/88d0b764a0113f9eafaad9f71454b55fdb214cd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a805ab1003f60d6ff94a9b5f1f45c3e5456efebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nfajar/.android/build-cache/91a7e7349a7ab3be7c209c31e82c23aba7487de8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nfajar/AndroidStudioProjects/BudiLuhurLite/app/build/intermediates/pre-dexed/debug/classes_a81d279c0638d7e6200b9df4517de7b1bef02131.jar" />
+    </item>
+
+</items>
