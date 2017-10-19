@@ -22,20 +22,16 @@ import android.widget.ProgressBar;
  * Created by nfajar on 14/10/17.
  */
 
-public class JadwalFragment extends Fragment implements SwipeRefreshLayout.OnRefreshListener {
+public class JadwalFragment extends Fragment {
 
     private WebView webView;
     private ProgressBar progressBar;
-    private SwipeRefreshLayout swipe;
     private String jadwalurl = "http://jadwal.budiluhur.ac.id/";
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.jadwal_fragment,container,false);
-
-        swipe = (SwipeRefreshLayout) view.findViewById(R.id.swipe);
-        swipe.setOnRefreshListener(this);
 
         webView = (WebView) view.findViewById(R.id.webView);
         progressBar = (ProgressBar) view.findViewById(R.id.progressBar);
@@ -46,6 +42,7 @@ public class JadwalFragment extends Fragment implements SwipeRefreshLayout.OnRef
             webView.getSettings().setJavaScriptEnabled(true);
             webView.getSettings().setSupportZoom(true);
             webView.getSettings().setBuiltInZoomControls(true);
+            webView.getSettings().setDisplayZoomControls(false);
             webView.getSettings().setLoadWithOverviewMode(true);
             webView.getSettings().setUseWideViewPort(true);
             webView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
@@ -105,17 +102,9 @@ public class JadwalFragment extends Fragment implements SwipeRefreshLayout.OnRef
         @Override
         public void onPageFinished(WebView view, String url) {
             super.onPageFinished(view, url);
-            swipe.setRefreshing(false);
             progressBar.setVisibility(View.GONE);
         }
     }
-
-    @Override
-    public void onRefresh() {
-        swipe.setRefreshing(true);
-        ReloadWebView(jadwalurl);
-    }
-    private void ReloadWebView(String jadwalurl) { webView.loadUrl(jadwalurl); }
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
